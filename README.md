@@ -12,7 +12,7 @@ The portfolio is designed to work seamlessly across desktops, tablets, and mobil
 
 Add your GitHub Pages link here:
 
-https://your-username.github.io/portfolio-website/
+https://debapriyadutta17.github.io/responsive-portfolio-website/
 
 ---
 
