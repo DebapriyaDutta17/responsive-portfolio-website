@@ -10,8 +10,6 @@ The portfolio is designed to work seamlessly across desktops, tablets, and mobil
 
 ## 🚀 Live Demo
 
-Add your GitHub Pages link here:
-
 https://debapriyadutta17.github.io/responsive-portfolio-website/
 
 ---
